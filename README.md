@@ -1,2 +1,2 @@
-# WSC-2025-Sensor Data Acquisition
+# WSC-2025 Sensor Data Acquisition
 Solar Car Battery, MPPT, and IMU Data Acquisition
